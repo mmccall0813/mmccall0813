@@ -12,3 +12,6 @@ A few of the things I've made:
  - [Agar.io Clone](https://agariok.glitch.me)
     - Built on top of [Cigar2](https://github.com/Cigar2/Cigar2) and [MultiOgar-Edited](https://github.com/Luka967/MultiOgar-Edited)
     - I've added a few custom chat commands
+ - [Kahot](https://github.com/mmccall0813/kahot)
+    - An open-source kahoot client
+    - Uses [Kahoot.js-updated](https://npmjs.com/package/kahoot.js-updated) and [socket.io](https://npmjs.com/package/socket.io)
