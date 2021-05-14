@@ -4,6 +4,8 @@ Coding is a hobby of mine and you can find some of my projects here. You can als
 I mainly write code in Node.js, JavaScript, HTML, and CSS. I know a litlle bit of C++ but I havent wrote anything in it yet. I like to build apps like discord bots and games.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmccall0813)](https://github.com/anuraghazra/github-readme-stats)
+[![mmccall0813's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmccall0813)](https://github.com/anuraghazra/github-readme-stats)
+
 
 A few of the things I've made:
  - [Fated Forest](https://fated-forest-rpg.glitch.me/)
