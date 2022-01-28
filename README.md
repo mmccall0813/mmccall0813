@@ -10,6 +10,9 @@ I mainly use Visual Studio Code to write code.
 
 
 A few of the things I've made:
+ - [answer.js](https://github.com/mmccall0813/answer.js)
+    - Open-source blooket auto-play script that automatically plays the game for you.
+    - Uses offical API to get question answers
  - [Fated Forest](https://fated-forest-rpg.glitch.me/)
     - A simple turn based combat game
     - Coded from scratch
